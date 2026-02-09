@@ -3,6 +3,5 @@
 
 ---
 
-🧑🏻‍💻 • Estudante de ADS;
-💻 • Iniciante em CiberSegurança;
-🐧 • Entusiasta em Linux;
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
