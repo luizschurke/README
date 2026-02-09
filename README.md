@@ -4,4 +4,3 @@
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
