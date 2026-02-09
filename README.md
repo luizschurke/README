@@ -3,6 +3,6 @@
 
 ---
 
-🧑🏻‍💻 • Estudante de ADS
-💻 • Iniciante em CiberSegurança
-🐧 • Entusiasta em Linux
+🧑🏻‍💻 • Estudante de ADS;
+💻 • Iniciante em CiberSegurança;
+🐧 • Entusiasta em Linux;
