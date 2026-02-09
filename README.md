@@ -4,5 +4,3 @@
 ---
 
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=dark)
