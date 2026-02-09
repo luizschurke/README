@@ -3,4 +3,6 @@
 
 ---
 
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=00FF99)
