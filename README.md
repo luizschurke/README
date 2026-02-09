@@ -2,3 +2,7 @@
 ### Análise e Desenvolvimento de Sistemas | CiberSegurança | Linux
 
 ---
+
+# 🧑🏻‍💻 • Estudante de ADS
+# 💻 • Iniciante em CiberSegurança
+# 🐧 • Entusiasta em Linux
