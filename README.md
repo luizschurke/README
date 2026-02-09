@@ -4,5 +4,5 @@
 ---
 
 🧑🏻‍💻 • Estudante de ADS
-# 💻 • Iniciante em CiberSegurança
-# 🐧 • Entusiasta em Linux
+💻 • Iniciante em CiberSegurança
+🐧 • Entusiasta em Linux
