@@ -1,5 +1,12 @@
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&color=008000&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Luiz+Schurke)
-### ADS | CiberSegurança | Linux
+# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=5000&color=fffdfd&center=true&vCenter=true&width=600&lines=Ol%C3%A1,+eu+sou+Luiz+Schurke)
+### Developer em constante evolução 
+
+---
+
+# <img src="https://cdn.discordapp.com/emojis/1371214970825478176.webp?size=44" width="30"/>  Estudante de ADS
+# <img src="https://cdn.discordapp.com/emojis/1375373100572741712.webp?size=44" width="30"/>  Entusiasta em CiberSegurança
+
+# <img src="https://cdn.discordapp.com/emojis/1409902647741251697.webp?size=96" width="30"/>  Usuário Linux 
 
 ---
 
